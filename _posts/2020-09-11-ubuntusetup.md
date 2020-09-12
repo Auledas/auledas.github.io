@@ -1,6 +1,6 @@
-# ROS setup
+# Ubuntu installation
 
-In this post I will explain how to set up a computer to work with the Robot Operating System (ROS). Here's the table of contents:
+In this post I will explain how to install Ubuntu in your computer to work with the Robot Operating System (ROS). Here's the table of contents:
 
 1. TOC
 {:toc}
@@ -56,4 +56,4 @@ If you have followed the steps correctly, the partition table should look like t
 
 ![](/images/8ubuntu.JPG "Finished partition table")
 
-Make sure that the mount point, type and size of each partition is correct. If everything is fine, you can install Ubuntu. After the installation you will be asked to provide a username, password, timezone etc. When you finish this setup, restart the computer. You see a purple screen and Ubuntu will pop up. Enjoy the freshly installed Ubuntu! In the following posts I will explain how to install ROS and several interesting packages.
+Make sure that the mount point, type and size of each partition is correct. If everything is fine, you can install Ubuntu. After the installation you will be asked to provide a username, password, timezone etc. When you finish this setup, restart the computer. You see a purple screen and Ubuntu will pop up. Enjoy the freshly installed Ubuntu! In the following posts I will explain how to install NVidia drivers and other useful utilities for Ubuntu.
