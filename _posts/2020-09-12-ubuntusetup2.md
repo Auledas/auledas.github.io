@@ -40,3 +40,14 @@ The next interesting application to have on your Ubuntu machine is Kazam. Kazam 
 The GUI is easy to use, as you can see below, so it is quite straight forward to use.
 
 ![](/images/kazam.png "Kazam is a screen capture/recorder application")
+
+## VSCode
+
+Another good idea is to install an integrated development environment (IDE). IDEs provide several programming functionalities, such as: syntax highlighting, code autocompletion, debugging, version control, etc. There are many IDE options, one that I particularly like is Microsoft Visual Studio because it has extensions to work with Python, C++, and ROS.
+
+To install it, just follow the tutorial for [Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux).
+
+Then, you can navigate to the extensions tab and install the language support packages that you want.
+
+![](/images/mscode.png "Microsoft Visual Studio provides extensions for several programming languages and middleware")
+
