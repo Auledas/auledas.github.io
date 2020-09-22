@@ -37,7 +37,7 @@ The next interesting application to have on your Ubuntu machine is Kazam. Kazam 
 
     sudo apt-get install kazam 
 
-The GUI is easy to use, as you can see below, so it is quite straight forward to use.
+The GUI is easy to use, as you can see below, so it is quite straightforward to use.
 
 ![](/images/kazam.png "Kazam is a screen capture/recorder application")
 
